@@ -1,4 +1,5 @@
-##Customer Churn Prediction##
+Customer Churn Prediction
+
 A machine learning web application built with Streamlit and TensorFlow to predict customer churn probability based on various customer attributes.
 
 📋 Overview
