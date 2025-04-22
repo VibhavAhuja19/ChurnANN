@@ -38,7 +38,7 @@ python --version
 If not, download and install it from python.org
 Clone this repository:
 
-git clone https://github.com/yourusername/customer-churn-prediction.git
+git clone https://github.com/VibhavAhuja19/ChurnANN.git
 cd customer-churn-prediction
 Install required dependencies:
 
