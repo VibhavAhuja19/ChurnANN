@@ -45,7 +45,7 @@ This application uses a trained deep learning model to predict whether a custome
 git clone https://github.com/VibhavAhuja19/ChurnANN.git
 cd ChurnANN
 
-### Run command
+#### Run command
 
 ```bash
 streamlit run app.py
