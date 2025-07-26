@@ -71,8 +71,16 @@ The application provides a churn probability estimate to help businesses identif
 - Python 3.10 (required for TensorFlow compatibility)
 - Git (for cloning the repository)
 
-### Installation
+### ▶️ Quick Start
+1. Clone and install dependencies:
+```bash
+git clone https://github.com/VibhavAhuja19/ChurnANN.git
+cd ChurnANN
+pip install -r requirements.txt
 
-1. **Verify Python Version**:
-   ```bash
-   python --version
+### Run Command
+```bash
+streamlit run app.py
+
+
+
