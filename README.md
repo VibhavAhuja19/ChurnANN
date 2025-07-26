@@ -7,7 +7,7 @@
 A machine learning web application built with Streamlit and TensorFlow to predict customer churn probability based on various customer attributes.
 
 ## 📋 Overview
-This application uses a trained deep learning model to predict whether a customer is likely to leave a service (churn) based on demographic and account information. The model analyzes factors such as credit score, geography, gender, age, balance, and other features to provide a churn probability estimate.
+This application uses a trained machine learning model to predict whether a customer is likely to leave a service (churn) based on demographic and account information. The model analyzes factors such as credit score, geography, gender, age, balance, and other features to provide a churn probability estimate.
 
 ## 🚀 Features
 - Interactive web interface built with Streamlit
