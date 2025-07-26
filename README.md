@@ -4,8 +4,6 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-
-
 A machine learning web application built with Streamlit and TensorFlow to predict customer churn probability based on various customer attributes.
 
 ## 📋 Overview
@@ -37,21 +35,21 @@ This application uses a trained deep learning model to predict whether a custome
 
 ## ⚙️ Setup and Installation
 
-### Important Requirements
+### Prerequisites
 - **Python 3.10**: This application requires Python 3.10 for TensorFlow compatibility
 - **Model Format**: The model is saved in the `.keras` format (not `.h5`)
 
-
-### ▶️ Quick Start
-1. Clone and install dependencies:
+### Installation
+1. Clone the repository:
 ```bash
 git clone https://github.com/VibhavAhuja19/ChurnANN.git
 cd ChurnANN
-pip install -r requirements.txt
 
-### Run Command
+### Run command
+
 ```bash
 streamlit run app.py
 ```
+
 
 
